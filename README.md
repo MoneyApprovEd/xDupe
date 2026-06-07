@@ -269,19 +269,6 @@ Example for granting to a non-op player:
 - Java 17 or higher (JDK)
 - Apache Maven 3.8+
 
-### Build Steps
-
-```bash
-# Clone the repository
-git clone https://github.com/EMIRLQQ1/xDupe.git
-cd xDupe
-
-# Build the plugin
-mvn clean package
-
-# The compiled JAR will be at:
-# target/xDupe.jar
-```
 
 ### Importing into IntelliJ IDEA
 
